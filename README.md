@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0136-single-number) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3001-apply-operations-to-maximize-score) |
 ## Two Pointers
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
