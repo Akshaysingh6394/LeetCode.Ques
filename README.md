@@ -12,6 +12,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Breadth-First Search
 |  |
@@ -48,6 +49,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0768-partition-labels) |
 | [2681-put-marbles-in-bags](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0067-add-binary) |
+| [0768-partition-labels](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0768-partition-labels) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,4 +74,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0067-add-binary) |
+## Hash Table
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->
