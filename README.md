@@ -71,6 +71,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [2262-solving-questions-with-brainpower](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2262-solving-questions-with-brainpower) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
