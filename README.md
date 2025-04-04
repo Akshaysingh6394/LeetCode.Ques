@@ -21,6 +21,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Union Find
 |  |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0768-partition-labels) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,4 +100,16 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0231-power-of-two) |
+## Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
