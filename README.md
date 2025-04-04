@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0136-single-number) |
+| [0861-flipping-an-image](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0861-flipping-an-image) |
 | [2262-solving-questions-with-brainpower](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2262-solving-questions-with-brainpower) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2681-put-marbles-in-bags) |
@@ -17,6 +18,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0768-partition-labels) |
+| [0861-flipping-an-image](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0861-flipping-an-image) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Breadth-First Search
 |  |
@@ -41,6 +43,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0861-flipping-an-image) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Math
 |  |
@@ -79,10 +82,12 @@
 | [0136-single-number](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0231-power-of-two) |
+| [0861-flipping-an-image](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0067-add-binary) |
+| [0861-flipping-an-image](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
