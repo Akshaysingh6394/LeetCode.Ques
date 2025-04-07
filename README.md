@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0136-single-number) |
 | [0368-largest-divisible-subset](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0416-partition-equal-subset-sum) |
 | [0861-flipping-an-image](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1677-matrix-diagonal-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0416-partition-equal-subset-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2262-solving-questions-with-brainpower) |
 ## Divide and Conquer
 |  |
