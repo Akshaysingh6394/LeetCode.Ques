@@ -19,6 +19,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2681-put-marbles-in-bags) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0861-flipping-an-image) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +111,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,4 +155,13 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0206-reverse-linked-list) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
