@@ -119,6 +119,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0231-power-of-two) |
 ## Tree
 |  |
@@ -144,4 +145,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
