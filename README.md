@@ -63,6 +63,7 @@
 | [0231-power-of-two](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3001-apply-operations-to-maximize-score) |
 ## Stack
 |  |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2998-count-symmetric-integers) |
 ## Linked List
 |  |
 | ------- |
