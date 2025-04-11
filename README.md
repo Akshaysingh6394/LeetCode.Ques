@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0011-container-with-most-water) |
+| [0234-palindrome-linked-list](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0768-partition-labels) |
@@ -69,6 +70,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0234-palindrome-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
 |  |
@@ -130,6 +132,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -159,6 +162,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0234-palindrome-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
