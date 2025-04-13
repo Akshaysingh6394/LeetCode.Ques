@@ -67,6 +67,7 @@
 | [0231-power-of-two](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3001-apply-operations-to-maximize-score) |
 | [3548-find-the-count-of-good-integers](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3548-find-the-count-of-good-integers) |
@@ -140,6 +141,7 @@
 | [0206-reverse-linked-list](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
 | ------- |
