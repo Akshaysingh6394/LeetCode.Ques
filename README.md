@@ -15,6 +15,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1677-matrix-diagonal-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2280-count-good-triplets-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3001-apply-operations-to-maximize-score) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0190-reverse-bits) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2280-count-good-triplets-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -184,5 +186,22 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2280-count-good-triplets-in-an-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Binary Search
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
