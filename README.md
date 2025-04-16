@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0136-single-number) |
 | [0368-largest-divisible-subset](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0416-partition-equal-subset-sum) |
+| [0561-array-partition](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0561-array-partition) |
 | [0861-flipping-an-image](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0861-flipping-an-image) |
 | [1656-count-good-triplets](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1677-matrix-diagonal-sum) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0368-largest-divisible-subset) |
+| [0561-array-partition](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0561-array-partition) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3001-apply-operations-to-maximize-score) |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0561-array-partition) |
 | [0768-partition-labels](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0768-partition-labels) |
 | [2681-put-marbles-in-bags](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3001-apply-operations-to-maximize-score) |
@@ -204,4 +207,8 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2280-count-good-triplets-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
