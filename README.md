@@ -12,6 +12,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0416-partition-equal-subset-sum) |
 | [0561-array-partition](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0561-array-partition) |
 | [0861-flipping-an-image](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0861-flipping-an-image) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1656-count-good-triplets](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1677-matrix-diagonal-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -218,4 +219,8 @@
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2626-count-the-number-of-good-subarrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
