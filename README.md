@@ -83,6 +83,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0234-palindrome-linked-list) |
+| [1666-make-the-string-great](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1666-make-the-string-great) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
 |  |
@@ -108,6 +109,7 @@
 | [0344-reverse-string](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0768-partition-labels) |
+| [1666-make-the-string-great](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1666-make-the-string-great) |
 ## Bit Manipulation
 |  |
 | ------- |
