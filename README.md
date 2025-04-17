@@ -105,6 +105,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0443-string-compression) |
