@@ -11,6 +11,7 @@
 | [0368-largest-divisible-subset](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0416-partition-equal-subset-sum) |
 | [0561-array-partition](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0561-array-partition) |
+| [0797-rabbits-in-forest](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0797-rabbits-in-forest) |
 | [0861-flipping-an-image](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0861-flipping-an-image) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1656-count-good-triplets](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1656-count-good-triplets) |
@@ -76,6 +77,7 @@
 | [0067-add-binary](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0797-rabbits-in-forest) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2998-count-symmetric-integers) |
@@ -94,6 +96,7 @@
 | [0011-container-with-most-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0561-array-partition) |
 | [0768-partition-labels](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0797-rabbits-in-forest) |
 | [2681-put-marbles-in-bags](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
@@ -133,6 +136,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3548-find-the-count-of-good-integers) |
