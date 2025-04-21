@@ -17,6 +17,7 @@
 | [1656-count-good-triplets](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1677-matrix-diagonal-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2249-count-the-hidden-sequences](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2280-count-good-triplets-in-an-array) |
@@ -237,4 +238,5 @@
 |  |
 | ------- |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [2249-count-the-hidden-sequences](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2249-count-the-hidden-sequences) |
 <!---LeetCode Topics End-->
