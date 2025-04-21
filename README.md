@@ -53,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0368-largest-divisible-subset) |
 | [0561-array-partition](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0561-array-partition) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0768-partition-labels) |
@@ -135,6 +137,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
