@@ -133,6 +133,7 @@
 | [0231-power-of-two](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0231-power-of-two) |
 | [0861-flipping-an-image](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0861-flipping-an-image) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
 | ------- |
