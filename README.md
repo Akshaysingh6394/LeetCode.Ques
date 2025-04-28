@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0136-single-number) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0344-reverse-string) |
@@ -62,6 +64,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0368-largest-divisible-subset) |
 | [0561-array-partition](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0561-array-partition) |
