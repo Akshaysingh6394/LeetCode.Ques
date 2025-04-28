@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0119-pascals-triangle-ii) |
@@ -81,6 +82,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0073-set-matrix-zeroes) |
 | [0861-flipping-an-image](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1677-matrix-diagonal-sum) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -153,6 +155,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0768-partition-labels) |
