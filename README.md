@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0075-sort-colors) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0141-linked-list-cycle) |
