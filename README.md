@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0136-single-number) |
 | [0368-largest-divisible-subset](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0416-partition-equal-subset-sum) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0416-partition-equal-subset-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2262-solving-questions-with-brainpower) |
