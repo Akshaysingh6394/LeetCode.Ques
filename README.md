@@ -18,6 +18,7 @@
 | [0561-array-partition](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0561-array-partition) |
 | [0797-rabbits-in-forest](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0797-rabbits-in-forest) |
 | [0861-flipping-an-image](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0861-flipping-an-image) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1656-count-good-triplets](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1677-matrix-diagonal-sum) |
@@ -96,6 +97,7 @@
 | [0231-power-of-two](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2050-count-good-numbers) |
