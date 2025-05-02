@@ -56,6 +56,7 @@
 | [0443-string-compression](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0861-flipping-an-image) |
+| [0868-push-dominoes](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0868-push-dominoes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Breadth-First Search
@@ -143,6 +144,7 @@
 | [0344-reverse-string](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0868-push-dominoes) |
 | [1666-make-the-string-great](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1666-make-the-string-great) |
 ## Bit Manipulation
 |  |
@@ -185,6 +187,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0119-pascals-triangle-ii) |
 | [0368-largest-divisible-subset](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Divide and Conquer
