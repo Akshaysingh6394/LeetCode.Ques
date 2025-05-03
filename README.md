@@ -18,6 +18,7 @@
 | [0561-array-partition](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0561-array-partition) |
 | [0797-rabbits-in-forest](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0797-rabbits-in-forest) |
 | [0861-flipping-an-image](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0861-flipping-an-image) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1656-count-good-triplets](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1656-count-good-triplets) |
@@ -122,6 +123,7 @@
 | [0561-array-partition](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0561-array-partition) |
 | [0768-partition-labels](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3001-apply-operations-to-maximize-score) |
