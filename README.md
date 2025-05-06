@@ -24,6 +24,7 @@
 | [1656-count-good-triplets](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1677-matrix-diagonal-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2262-solving-questions-with-brainpower) |
@@ -163,6 +164,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0861-flipping-an-image) |
+| [2048-build-array-from-permutation](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2048-build-array-from-permutation) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
