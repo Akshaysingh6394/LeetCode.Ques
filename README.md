@@ -42,6 +42,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -87,6 +88,7 @@
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2681-put-marbles-in-bags) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
@@ -95,6 +97,7 @@
 | [0861-flipping-an-image](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/1677-matrix-diagonal-sum) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Math
 |  |
 | ------- |
@@ -302,4 +305,12 @@
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshaysingh6394/LeetCode.Ques/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
