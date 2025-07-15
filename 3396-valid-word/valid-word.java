@@ -1,26 +1,10 @@
 class Solution {
     public boolean isValid(String word) {
-        if(word.length() <3 ){
-            return false;
-        }
-        boolean vowel = false;
-        boolean consonent = false;
-        for(char ch : word.toCharArray()){
-            if(!Character.isLetterOrDigit(ch)){
-                return false;
-            }
-            if(Character.isLetter(ch)){
-                char lc = Character.toLowerCase(ch);
-                if(lc=='a' || lc == 'e' || lc == 'i' || lc == 'o' || lc == 'u'){
-                    vowel = true;
-                }else{
-                    consonent = true;
-                }
-            }
-
-            
-        }
-        return vowel && consonent;
+        if (word.length() < 3 || !word.matches("[a-zA-Z0-9]+")) {
+        return false;
+    }
+    String lower = word.toLowerCase();
+    return lower.matches(".*[aeiou].*") && lower.matches(".*[b-df-hj-np-tv-z].*");
 
     }
 }
