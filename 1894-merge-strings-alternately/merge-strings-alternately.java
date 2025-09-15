@@ -8,13 +8,13 @@ class Solution {
             i++;
             j++;
         }
-        while(i<word1.length()){
-            s.append(word1.charAt(i++));
-        }
-        while(j<word2.length()){
-                        s.append(word2.charAt(j++));
+        
+            s.append(word1.substring(i));
+        
+ 
+                        s.append(word2.substring(j));
 
-        }
+        
         return s.toString();
 
     }
